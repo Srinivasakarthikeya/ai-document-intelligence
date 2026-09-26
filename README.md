@@ -1,6 +1,6 @@
 # AI-Powered Business Document Intelligence System
 
-   ![Docket review workspace](screenshot.png)
+![Docket review workspace](Sreenshot.png)
 
 Upload invoices, receipts, purchase orders, reports and contracts. The system reads them (native PDF text or OCR for scans), classifies the document type with an ML model, extracts structured fields, validates them against business rules, and stores everything in SQL — searchable from a React dashboard with live processing status.
 
