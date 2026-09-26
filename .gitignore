@@ -1,0 +1,9 @@
+   __pycache__/
+   *.pyc
+   .venv/
+   backend/uploads/
+   backend/*.db
+   backend/app/ml/classifier.joblib
+   node_modules/
+   frontend/dist/
+   .pytest_cache/
